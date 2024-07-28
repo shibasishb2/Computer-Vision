@@ -1,10 +1,10 @@
-# Computer-Vision
-Plants Seedling Classification
-Build a robust image classifier using CNNs to efficiently classify different plant seedlings and weeds to improve crop yields and minimize human involvement
+# COMPUTER-VISION PROJECT
+# PLANTS SEEDLINGS CLASSIFICATION
+# Build a robust image classifier using CNNs to efficiently classify different plant seedlings and weeds to improve crop yields and minimize human involvement
 
-Skills & Tools Covered
-Image Processing
-Keras
-Tensorflow
-Convolutional Neural Networks
-Transfer Learning
+# SKILLS & TOOLS COVERED
+# -Image Processing
+# -Keras
+# -Tensorflow
+# -Convolutional Neural Networks
+# -Transfer Learning
